@@ -1,5 +1,6 @@
 # Manim-Tutorials
-It contains the source code of this series.
+It contains the source code of official YouTube Playlist "Manim Tutorials": https://www.youtube.com/playlist?list=PLBzPh1GnkQAeQgKmOD8hzzGLhlX72itZE
+
 
 To watch the tutorials visit our YouTube Channel : https://www.youtube.com/@catacoding8137
 
